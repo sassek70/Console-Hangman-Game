@@ -176,6 +176,9 @@ namespace HangmanGame
                 }
             }
             Console.WriteLine("\r\nGame is over, thank you for playing :)");
+            // Console.ReadKey();
         }
+
+
     }
 }
